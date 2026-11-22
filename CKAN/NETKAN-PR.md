@@ -1,4 +1,8 @@
-# NetKAN pull request draft
+# NetKAN pull request
+
+Opened: https://github.com/KSP-CKAN/NetKAN/pull/11904 (open, Inflate check
+passing; awaiting maintainer merge). A maintainer commit removed comments and
+the redundant `resources` block from the submitted `.netkan`.
 
 Target
 ------
