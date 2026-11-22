@@ -1,8 +1,9 @@
 # Discord announcement draft — 📢-mod-updates
 
 **Status:** ready to post after the NetKAN PR is merged and the mod appears
-in CKAN. Do not post earlier. Guild: Lynx Development. Channel:
-`📢-mod-updates` (ID `1573429907202244709`). Author name: Lynx.
+in CKAN. Do not post earlier. Guild: Lynx Development. Category:
+`🚀 KSP — KKBlocks`. Channel: `📢-mod-updates` (ID
+`1574100777214021697`). Author name: Lynx.
 
 ## Message (English)
 

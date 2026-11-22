@@ -62,4 +62,7 @@ dependencies, author).
 - **GitHub** — files and Release ZIP
 - **NetKAN** — metadata pull request
 - **CKAN-meta** — generated index
-- **Discord** — announcement after the merge
+- **Discord** — announcement after the merge, in the KKBlocks category
+  `🚀 KSP — KKBlocks` → `📢-mod-updates` (ID `1574100777214021697`).
+  The same category also contains `🐞-bug-reports`, `📷-screenshots` and
+  `🛰️-mod-help`. Community invite: https://discord.gg/GEjdeqJE6g
