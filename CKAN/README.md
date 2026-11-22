@@ -15,9 +15,10 @@ the download is a GitHub Release.
   Inflate check passing). After review and merge the mod shows up in CKAN.
   The Discord announcement was posted on 2026-11-22 with status-corrected
   wording ("CKAN listing in progress"). The final version is a stable-release
-  announcement with no beta paragraph and no Discord invite link. See
-  `DISCORD-ANNOUNCEMENT.md` for all message IDs, the link and the original
-  after-merge draft.
+  announcement with the exact range KSP 1.12.0–1.12.5 (tested on 1.12.5) and
+  Kerbal Konstructs 1.12.3+, with no beta paragraph and no Discord invite
+  link. See `DISCORD-ANNOUNCEMENT.md` for all message IDs, the link and the
+  original after-merge draft.
 
 ## Building the release ZIP
 

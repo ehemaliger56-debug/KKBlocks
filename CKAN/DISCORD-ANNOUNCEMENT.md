@@ -8,11 +8,14 @@ Category: `🚀 KSP — KKBlocks`. Channel: `📢-mod-updates` (ID
   invite link**.
 - Second post 17:47 UTC, ID `1574119066740719728` — without server link, but
   still contained a beta paragraph.
-- Third post 17:48 UTC, ID `1574119291597492254`,
-  https://discord.com/channels/1546435130766393394/1574100777214021697/1574119291597492254
-  — **authoritative version: stable release wording, no beta paragraph, no
-  Discord/server link** (verified by readback). The earlier two posts are
-  superseded; removing them would need explicit confirmation.
+- Third post 17:48 UTC, ID `1574119291597492254` — stable release wording,
+  no beta paragraph, no server link. **Deleted by the user.**
+- Fourth post 18:01 UTC, ID `1574122629332336850`,
+  https://discord.com/channels/1546435130766393394/1574100777214021697/1574122629332336850
+  — **authoritative version: stable release, exact version range KSP
+  1.12.0–1.12.5 (tested on 1.12.5) + Kerbal Konstructs 1.12.3+, no beta
+  paragraph, no Discord/server link** (verified by readback). The first two
+  posts are still superseded; removing them would need explicit confirmation.
 
 Note: the NetKAN PR was still open at posting time, so the published text
 says "CKAN listing in progress" instead of claiming it is already in CKAN.
