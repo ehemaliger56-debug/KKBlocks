@@ -6,11 +6,13 @@ Category: `🚀 KSP — KKBlocks`. Channel: `📢-mod-updates` (ID
 
 - First post 17:45 UTC, ID `1574118640033341520`, **contained the Discord
   invite link**.
-- Second post 17:47 UTC, ID `1574119066740719728`,
-  https://discord.com/channels/1546435130766393394/1574100777214021697/1574119066740719728
-  — **authoritative version, without any Discord/server link** (verified by
-  readback). If the first post should be removed, that still needs to be
-  confirmed.
+- Second post 17:47 UTC, ID `1574119066740719728` — without server link, but
+  still contained a beta paragraph.
+- Third post 17:48 UTC, ID `1574119291597492254`,
+  https://discord.com/channels/1546435130766393394/1574100777214021697/1574119291597492254
+  — **authoritative version: stable release wording, no beta paragraph, no
+  Discord/server link** (verified by readback). The earlier two posts are
+  superseded; removing them would need explicit confirmation.
 
 Note: the NetKAN PR was still open at posting time, so the published text
 says "CKAN listing in progress" instead of claiming it is already in CKAN.

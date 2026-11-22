@@ -14,9 +14,10 @@ the download is a GitHub Release.
 - NetKAN pull request: https://github.com/KSP-CKAN/NetKAN/pull/11904 (open,
   Inflate check passing). After review and merge the mod shows up in CKAN.
   The Discord announcement was posted on 2026-11-22 with status-corrected
-  wording ("CKAN listing in progress"); the latest version omits the
-  Discord invite link. See `DISCORD-ANNOUNCEMENT.md` for both message IDs,
-  the link and the original after-merge draft.
+  wording ("CKAN listing in progress"). The final version is a stable-release
+  announcement with no beta paragraph and no Discord invite link. See
+  `DISCORD-ANNOUNCEMENT.md` for all message IDs, the link and the original
+  after-merge draft.
 
 ## Building the release ZIP
 
