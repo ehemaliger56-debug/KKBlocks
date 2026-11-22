@@ -30,16 +30,20 @@ roads, ramps and decorative structures directly in the KK instance editor.
 
 ## Requirements / dependencies
 
-| Requirement | Version | Why |
+| Requirement | Supported version | Why |
 | --- | --- | --- |
-| Kerbal Space Program | 1.12.x | Target game version |
-| Kerbal Konstructs (`KerbalKonstructs`) | 1.12.x | Provides the static objects and the in-game placement editor. KKBlocks adds only meshes and CFG statics; it does nothing without KK. |
+| Kerbal Space Program | **1.12.0 – 1.12.5** (tested on 1.12.5) | Target game version; the 1.12.5 patch is the latest one and is fully supported |
+| Kerbal Konstructs (`KerbalKonstructs`) | **1.12.3 or newer** | Provides the static objects and the in-game placement editor. KKBlocks adds only meshes and CFG statics; it does nothing without KK |
 
 There are **no other hard dependencies** — no ModuleManager, no B9PartSwitch,
 no texture packs and no plugins. Visual mods such as Scatterer, EVE, TUFX or
 Deferred are optional and do not change how the blocks work. KKBlocks can be
 added or removed at any time; placed instances stay in Kerbal Konstructs'
 save data.
+
+Note: Kerbal Konstructs itself sets the practical KSP upper bound — install a
+KK release that supports your KSP patch level. With KK 1.12.3+ you are covered
+on every KSP 1.12.0–1.12.5 installation.
 
 ## Installation
 

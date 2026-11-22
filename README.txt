@@ -114,14 +114,18 @@ TECHNISCHES
 ABHÄNGIGKEITEN
 --------------
 Benötigt werden nur:
-• Kerbal Space Program 1.12.x
-• Kerbal Konstructs 1.12.x (liefert Statiks und den Editor)
+• Kerbal Space Program 1.12.0 – 1.12.5 (getestet auf 1.12.5)
+• Kerbal Konstructs 1.12.3 oder neuer (liefert Statiks und den Editor)
 
 KKBlocks bringt keinen Plugin-Code mit und braucht kein ModuleManager,
 keine Textur-Packs und keine anderen Mods. Scatterer, EVE, TUFX oder
 Deferred sind optional und ändern nichts an den Bausteinen. Die Mod ist
 save-kompatibel und kann jederzeit installiert oder entfernt werden;
 platzierte Instanzen bleiben in den KK-Saves erhalten.
+
+Hinweis: Die praktische Obergrenze setzt Kerbal Konstructs selbst – nutze
+eine KK-Version, die deine KSP-Patchversion unterstützt. Mit KK 1.12.3+
+bist du auf allen KSP 1.12.0–1.12.5-Installationen abgedeckt.
 
 HILFE, UPDATES UND DISCORD
 --------------------------

@@ -30,12 +30,12 @@ description: |-
   no runtime model generation: the .mu files are produced offline by the
   included MuTool source.
 
-  Requirements: Kerbal Space Program 1.12.x and Kerbal Konstructs 1.12.x.
-  Those are the only hard dependencies - no texture packs, no plugins and
-  no other mods are needed. Visual mods such as Scatterer, EVE, TUFX or
-  Deferred are optional. KKBlocks is save-compatible and can be installed
-  or removed at any time; placed instances remain in the Kerbal Konstructs
-  save data.
+  Requirements: Kerbal Space Program 1.12.0 through 1.12.5 (tested on
+  1.12.5) and Kerbal Konstructs 1.12.3 or newer. Those are the only hard
+  dependencies - no texture packs, no plugins and no other mods are needed.
+  Visual mods such as Scatterer, EVE, TUFX or Deferred are optional.
+  KKBlocks is save-compatible and can be installed or removed at any time;
+  placed instances remain in the Kerbal Konstructs save data.
 
   Need help or want to share a build? Join the Discord:
   https://discord.gg/GEjdeqJE6g
@@ -52,6 +52,8 @@ tags:
   - parts
   - graphics
   - config
-ksp_version: 1.12
+ksp_version_min: 1.12.0
+ksp_version_max: 1.12.5
 depends:
   - name: KerbalKonstructs
+    min_version: 1.12.3

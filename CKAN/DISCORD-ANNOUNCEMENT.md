@@ -16,8 +16,10 @@ Category: `🚀 KSP — KKBlocks`. Channel: `📢-mod-updates` (ID
 
 Note: the NetKAN PR was still open at posting time, so the published text
 says "CKAN listing in progress" instead of claiming it is already in CKAN.
-The original "after merge" draft is kept below for reference. Author name:
-Lynx.
+The posted wording says "KSP 1.12.x + Kerbal Konstructs 1.12.x", which covers
+the precise supported range now recorded in the metadata: KSP 1.12.0–1.12.5
+(tested on 1.12.5) and Kerbal Konstructs 1.12.3+. The original "after merge"
+draft is kept below for reference. Author name: Lynx.
 
 ## Message (English)
 
