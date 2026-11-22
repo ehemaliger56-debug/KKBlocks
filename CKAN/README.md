@@ -9,6 +9,8 @@ the download is a GitHub Release.
 - Repository: https://github.com/ehemaliger56-debug/KKBlocks
 - Release `1.0.0` with `KKBlocks-1.0.0.zip` is published.
 - `KKBlocks.netkan` in this folder is the source for the indexer.
+- License: MIT (`LICENSE`). Mod description and dependencies are documented in
+  the repository `README.md`. Community Discord: https://discord.gg/GEjdeqJE6g
 - NetKAN pull request: https://github.com/KSP-CKAN/NetKAN/pull/11904 (open,
   Inflate check passing). After review and merge the mod shows up in CKAN.
   Discord announcement is drafted in `DISCORD-ANNOUNCEMENT.md` and is posted

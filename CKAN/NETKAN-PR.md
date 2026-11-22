@@ -27,16 +27,19 @@ This adds KKBlocks, a set of static building blocks for Kerbal Konstructs.
 - Identifier: KKBlocks
 - Version: 1.0.0
 - KSP version: 1.12
-- License: restricted (All Rights Reserved; see LICENSE in the repository)
+- License: MIT (see LICENSE in the repository)
 - Repository: https://github.com/ehemaliger56-debug/KKBlocks
 - Release: https://github.com/ehemaliger56-debug/KKBlocks/releases/tag/1.0.0
 - Download: https://github.com/ehemaliger56-debug/KKBlocks/releases/download/1.0.0/KKBlocks-1.0.0.zip
 - Author: Lynx
 - Dependency: KerbalKonstructs (no plugin is shipped)
 
-42 static meshes (cube, ramp, pyramid, cylinder, dome, sphere; seven sizes
-each) with twelve stock TextureSet colour variants. Existing cube names and
-saves are kept compatible.
+42 static meshes (cube, drivable ramp, pyramid, cylinder, dome, sphere;
+seven sizes each) with twelve stock TextureSet colour variants. Existing
+cube names and saves are kept compatible. The only dependency is
+KerbalKonstructs; no plugin or ModuleManager is shipped. Full description,
+requirements and the community Discord link are in the repository README:
+https://discord.gg/GEjdeqJE6g
 
 Thanks.
 ```

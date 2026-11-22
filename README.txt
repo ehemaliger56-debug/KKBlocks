@@ -110,3 +110,26 @@ TECHNISCHES
 • Winding + Collider aller erzeugten Dateien werden beim
   Generieren automatisch geprüft ("MuTool.exe check").
 • Getestet gegen KK 1.12.3 (Fork KSP-RO) unter KSP 1.12.x.
+
+ABHÄNGIGKEITEN
+--------------
+Benötigt werden nur:
+• Kerbal Space Program 1.12.x
+• Kerbal Konstructs 1.12.x (liefert Statiks und den Editor)
+
+KKBlocks bringt keinen Plugin-Code mit und braucht kein ModuleManager,
+keine Textur-Packs und keine anderen Mods. Scatterer, EVE, TUFX oder
+Deferred sind optional und ändern nichts an den Bausteinen. Die Mod ist
+save-kompatibel und kann jederzeit installiert oder entfernt werden;
+platzierte Instanzen bleiben in den KK-Saves erhalten.
+
+HILFE, UPDATES UND DISCORD
+--------------------------
+Community, Fragen und Release-News: https://discord.gg/GEjdeqJE6g
+(Lynx Development)
+
+LIZENZ
+------
+MIT – siehe LICENSE. Verwendung, Änderung und Weitergabe (auch in
+Mod-Packs) sind erlaubt, solange Copyright- und Lizenz-Hinweis erhalten
+bleiben.
