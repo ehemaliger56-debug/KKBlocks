@@ -8,7 +8,7 @@ $target  = Join-Path $stage 'KKBlocks'
 
 New-Item -ItemType Directory -Path $target -Force | Out-Null
 # Ship the mod payload only: no git metadata, no CKAN tooling, no archives.
-& robocopy $modRoot $target /E /XD .git CKAN /XF *.zip *.log netkan.exe ckan.exe .gitignore /NFL /NDL /NJH /NJS /NP | Out-Null
+& robocopy $modRoot $target /E /XD .git CKAN Generator /XF *.zip *.log netkan.exe ckan.exe .gitignore /NFL /NDL /NJH /NJS /NP | Out-Null
 if ($LASTEXITCODE -ge 8) { throw "robocopy failed with exit code $LASTEXITCODE" }
 
 $zip = Join-Path $PSScriptRoot "KKBlocks-$Version.zip"
