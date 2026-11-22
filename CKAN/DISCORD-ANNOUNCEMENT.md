@@ -1,9 +1,16 @@
 # Discord announcement draft — 📢-mod-updates
 
-**Status:** POSTED on 2026-11-22 17:45 UTC. Guild: Lynx Development.
+**Status:** POSTED twice on 2026-11-22. Guild: Lynx Development.
 Category: `🚀 KSP — KKBlocks`. Channel: `📢-mod-updates` (ID
-`1574100777214021697`). Message ID `1574118640033341520`:
-https://discord.com/channels/1546435130766393394/1574100777214021697/1574118640033341520
+`1574100777214021697`).
+
+- First post 17:45 UTC, ID `1574118640033341520`, **contained the Discord
+  invite link**.
+- Second post 17:47 UTC, ID `1574119066740719728`,
+  https://discord.com/channels/1546435130766393394/1574100777214021697/1574119066740719728
+  — **authoritative version, without any Discord/server link** (verified by
+  readback). If the first post should be removed, that still needs to be
+  confirmed.
 
 Note: the NetKAN PR was still open at posting time, so the published text
 says "CKAN listing in progress" instead of claiming it is already in CKAN.
